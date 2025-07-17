@@ -1,1 +1,0 @@
-# shopee-extension-privacy-policy
