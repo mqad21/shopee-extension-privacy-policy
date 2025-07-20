@@ -1,9 +1,9 @@
-# Privacy Policy - Shopee Analyzer Extension
+# Privacy Policy - MPX - MarketPlace eXtractor
 
 **Last Updated:** July 18, 2025
 
 ## Overview
-This privacy policy describes how the Shopee Analyzer Extension ("we", "our", or "extension") collects, uses, and protects your information.
+This privacy policy describes how the MPX - MarketPlace eXtractor ("we", "our", or "extension") collects, uses, and protects your information.
 
 ## Information We Collect
 
@@ -55,7 +55,7 @@ This privacy policy describes how the Shopee Analyzer Extension ("we", "our", or
 We may update this privacy policy from time to time. Users will be notified of any significant changes through the extension interface.
 
 ## Contact Information
-For questions about this privacy policy, contact us at: [your-email@example.com]
+For questions about this privacy policy, contact us at: aleelasolutions@gmail.com
 
 ## Compliance
 This extension complies with:
@@ -64,5 +64,4 @@ This extension complies with:
 - Shopee's terms of service for publicly available data
 
 ---
-
-*This privacy policy is effective as of the date listed above and applies to all users of the Shopee Analyzer Extension.*
+*This privacy policy is effective as of the date listed above and applies to all users of the MPX - MarketPlace eXtractor.*
